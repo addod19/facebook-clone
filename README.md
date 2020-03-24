@@ -12,6 +12,9 @@ Welcome to Friendbook. In this project, we recreated the basic functionality of 
   - Comment on posts
   - Send and accept friendship requests
   - Remove friends
+  
+### Future features
+  - Post with images
 
 ### Screenshot
 
