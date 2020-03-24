@@ -76,6 +76,7 @@ rails db:seed
 - Github: [@addod19](https://github.com/addod19)
 - Twitter: [@DanielLarbiAdd1](https://twitter.com/DanielLarbiAdd1)
 - Linkedin: [Daniel Larbi Addo](https://linkedin.com/in/daniel-larbi-addo-9738b0128/)
+- Email: (addodaniellarbi@gmail.com)
 
 ## 🤝 Contributing
 
