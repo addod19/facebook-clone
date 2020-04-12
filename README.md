@@ -81,6 +81,9 @@ rails db:seed
 - Linkedin: [Daniel Larbi Addo](https://linkedin.com/in/daniel-larbi-addo-9738b0128/)
 - Email: (addodaniellarbi@gmail.com)
 
+## Appreciation
+[Microverse](microverse.org)
+
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
