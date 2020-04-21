@@ -14,7 +14,10 @@ Welcome to Friendbook. In this project, we recreated the basic functionality of 
   - Remove friends
   
 ### Future features
-  - Post with images
+  - Create post with images
+  - Add imojis to comments
+  - Upload profile photo
+  - Chat with a friend
 
 ### Screenshot
 
@@ -22,7 +25,7 @@ Welcome to Friendbook. In this project, we recreated the basic functionality of 
 
 ### Live link
 
-Follow the link to access Friendbook: https://secret-sea-76381.herokuapp.com/
+Follow the link to access [Friendbook](https://secret-sea-76381.herokuapp.com/)
 
 ### Requirements
 
