@@ -71,6 +71,17 @@ rails db:migrate
 rails db:seed
 ```
 
+## How to run test
+
+For a specified test run
+``` rspec spec/models/like_spec.rb ```
+
+For all files in a directory run
+``` rspec spec/features ```
+
+For all test run
+``` rspec spec ```
+
 👤 **Author1**
 
 - Github: [@macnick](https://github.com/macnick)
