@@ -73,14 +73,15 @@ rails db:seed
 
 ## How to run test
 
-For a specified test run
-``` rspec spec/models/like_spec.rb ```
+For unit testing run 
+``` rspec spec/models ```
 
-For all files in a directory run
+For feature test run
 ``` rspec spec/features ```
 
-For all test run
-``` rspec spec ```
+Or run
+``` rspec -fd ``` for all test
+
 
 👤 **Author1**
 
