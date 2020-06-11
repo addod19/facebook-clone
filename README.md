@@ -21,7 +21,7 @@ Welcome to Friendbook. In this project, we recreated the basic functionality of 
 
 ### Screenshot
 
-![screenshot](app/assets/images/screenshot.png)
+![screenshot](app/assets/images/fb.png)
 
 ### Live link
 
